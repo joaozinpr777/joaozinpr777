@@ -13,7 +13,7 @@ Sou um estudante de programação apaixonado por tecnologia e desenvolvimento de
 
 ## 🔧 Tecnologias e Ferramentas
 
-- **Linguagens de Programação**: JavaScript, HTML, CSS
+- **Linguagens de Programação**: JavaScript, HTML, CSS, Python
 - **Ferramentas**: Git, GitHub, Visual Studio Code
 
 ## 💬 Vamos Conversar?
