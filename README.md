@@ -1,9 +1,10 @@
 # 👋 Olá, eu sou o João!  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-📚 Me aprimorando constantemente na área de programação  
+📚 Me aprimorando constantemente na área de programação, com foco especial em **Desenvolvimento Front-End** e **Desenvolvimento de Software**  
 
 ## 🚀 Interesses  
+🎨 **Front-End Development**  
 💻 **Desenvolvimento Web**  
 🖥️ **Desenvolvimento de Software**  
 🧩 **Algoritmos**  
